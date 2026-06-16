@@ -1,7 +1,22 @@
-# 🎤 Eloquence Arena
+# 🎤 VLOXY
 
-Plateforme web ludique pour s'entraîner à l'éloquence : l'IA (Groq) génère un sujet,
-tu t'enregistres en caméra/micro pendant un timer, et tu reçois un feedback IA.
+**VLOXY** est une plateforme intelligente d’entraînement à l’éloquence et à la prise de parole en public, propulsée par l’intelligence artificielle.
+
+Elle aide les utilisateurs à transformer leurs idées en discours clairs, structurés et convaincants, et à surmonter le blocage fréquent entre la pensée et l’expression orale.
+
+---
+
+## 🧠 Contexte
+
+Il existe beaucoup de personnes qui, lorsqu’elles écrivent , ont des idées claires et bien structurées.
+
+Mais au moment de prendre la parole en public, tout change :
+
+* les mots deviennent difficiles à trouver
+* les phrases se bloquent
+* les idées disparaissent sous le stress
+
+**VLOXY** a été créé pour résoudre ce problème.
 
 ## 🚀 Installation
 
